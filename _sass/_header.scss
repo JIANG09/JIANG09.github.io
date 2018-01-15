@@ -6,11 +6,11 @@ header {
 ,0.5);
     margin-bottom: 20px;
     a {
-        color: 	#FFFACD;
+        color: 	#000;
         -webkit-transition: 0.2s ease;
         transition: 0.2s ease;
         &:hover {
-            color: #FFFACD;
+            color: #000;
         }
     }
     .wrapper {
@@ -44,7 +44,7 @@ header {
                         padding: 0 10px;
                         height: 52px;
                         &:hover {
-                            background-color:#FFFACD;
+                            background-color:#FF82AB;
                         }
                         i {
                             margin-right: 5px;
@@ -52,7 +52,7 @@ header {
                     }
                     >.active {
                         color: #000;
-                        background-color: #FFFACD;
+                        background-color: #FF82AB;
                         box-shadow: 0 25px 25px -15px rgba(255,255,255,0.93);
                     }
                 }
