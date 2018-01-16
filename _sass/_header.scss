@@ -10,7 +10,7 @@ header {
         -webkit-transition: 0.2s ease;
         transition: 0.2s ease;
         &:hover {
-            color: #000;
+            color: #000; 
         }
     }
     .wrapper {
@@ -116,17 +116,17 @@ header {
                 right: 0;
                 top:10px;
                 padding: 5px 10px;
-                background: #333;
-                border: 1px solid #333;
+                background: #FAFFF0;
+                border: 1px solid #FAFFF0;
                 border-radius: 4px;
-                color: #c9c9c9;
+                color: #000;
                 font-size: 17px;
                 -webkit-transition: 0.4s ease;
                 transition: 0.4s ease;
             }
             >.active{
-                background: #000;
-                color: #fff;
+                background: #FAFFF0;
+                color: #000;
             }
             .nav-show{
                 visibility: visible;
@@ -146,7 +146,7 @@ header {
                 opacity: 0;
                 transition: 0.2s cubic-bezier(0.5, 0.1, 0.51, 1.38);
                 ul {
-                    background: #222;
+                    background: #FAFFF0;
                     border-radius: 0 0 4px 4px;
                     box-shadow: 0px 3px 4px 1px rgba(0,0,0,0.5);
                     li {
@@ -163,8 +163,8 @@ header {
                             border: none;
                         }
                         >.active {
-                            color: #fff;
-                            background-color: #000;
+                            color: #000;
+                            background-color: #FAFFF0;
                             box-shadow: none;
                         }
                     }
