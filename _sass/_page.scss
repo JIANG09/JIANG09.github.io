@@ -52,16 +52,16 @@
                 .categories {
                     padding: 0 15px;
                     i {
-                        color: #9e9d9d;
+                        color: #FFC0CB;
                     }
                     a {
                         padding: 0 5px;
-                        background-color: #9e9d9d;
+                        background-color: #FFC0CB;
                         color: #000;
                         font-size: 90%;
                         transition: 0.3s ease;
                         &:hover {
-                            background-color: #FFC0CB;
+                            background-color: #FFFFE0;
                         }
                     }
                 }
@@ -105,7 +105,7 @@
         .side {
             box-sizing: border-box;
             background-color: #FFFAF0;
-            box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.3), 0 0 30px rgba(10, 10, 0, 0.1) inset;
+            box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.3), 0 0 30px rgba(10, 10, 0, 0.5) inset;
             padding-bottom: 1px;
             -ms-word-break: break-all;
             word-break: break-all;
