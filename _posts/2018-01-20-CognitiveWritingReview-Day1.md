@@ -7,6 +7,9 @@ tags: 卡片 认知写作
 author: JIANG Shanyi
 ---
 
+* content
+{:toc}
+
 ## 任意卡
 ### 《老人与海》 片段翻译，对比张爱玲版本
 "The bird is a great help," the old man said. Just then the stern line came taut under his foot, where he had kept a loop of the line, and he dropped his oars and felt the weight of the small tuna‘s shivering pull as he held the line firm and commenced to haul it in. The shivering increased as he pulled in and he could see the blue back of the fish in the water and the gold of his sides before he swung him over the side and into the boat. He lay in the stern in the sun, compact and bullet shaped, his big, unintelligent eyes staring as he thumped his life out against the planking of the boat with the quick shivering strokes of his neat, fast-moving tail. The old man hit him on the head for kindness and kicked him, his body still shuddering, under the shade of the stern.
