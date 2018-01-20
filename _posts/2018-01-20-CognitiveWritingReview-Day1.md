@@ -1,10 +1,14 @@
 
 ---
 layout: post
+
 title: "认知写作学复盘--DAY1"
-categories: 写作  
+
+categories: 写作
+
 tags: 卡片 认知写作
-author: JIANG Shanyi
+
+author: SyJ
 ---
 
 * content
