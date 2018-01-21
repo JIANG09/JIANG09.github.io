@@ -5,8 +5,7 @@ categories: 写作 认知写作学
 tags:  认知写作学 卡片
 author: JIANG Shanyi
 ---
-## 1.任意卡
-### 《老人与海》 片段翻译，对比张爱玲版本
+## 1.任意卡:《老人与海》 片段翻译，对比张爱玲版本
 "The bird is a great help," the old man said. Just then the stern line came taut under his foot, where he had kept a loop of the line, and he dropped his oars and felt the weight of the small tuna‘s shivering pull as he held the line firm and commenced to haul it in. The shivering increased as he pulled in and he could see the blue back of the fish in the water and the gold of his sides before he swung him over the side and into the boat. He lay in the stern in the sun, compact and bullet shaped, his big, unintelligent eyes staring as he thumped his life out against the planking of the boat with the quick shivering strokes of his neat, fast-moving tail. The old man hit him on the head for kindness and kicked him, his body still shuddering, under the shade of the stern.
 
 「这鸟很有用，」老人说。就在那时，感到船尾的钩丝在脚底拉紧了，他把线缠了一个圈，然后搁下了桨，他感到那小鲔鱼的拉了下钩丝，轻轻的一颤的时候，他收紧钩丝，开始把它拖起来。他越往上拉的时候，颤动更强了，他可以看到水下面，那鱼的背是青色的，两边是金色的，然后他拉着那鱼的一边，将鱼拉到了船上。那鱼躺在阳光里的船尾上，眼睛像子弹一样，瞪着那大大的无知的眼睛，那平滑的尾巴，快速的抖动着，击打着船板。老人善意地击了它的头，还踢它，它的身体仍然在抖动着，就在船尾的阴影下面。
