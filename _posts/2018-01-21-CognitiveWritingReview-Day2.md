@@ -10,4 +10,5 @@ author: JIANG Shanyi
 
    生平：赫伯特·西蒙（Herbert Alexander Simon，1916年6月15日－2001年2月9日）
    
-    
+    
+## 2.金句卡  模因  集体潜意识术语卡
