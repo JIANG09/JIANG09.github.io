@@ -16,10 +16,15 @@ author: JIANG Shanyi
 
 ## 2.术语卡：模因
 
-> **模因的定义**：模因是文化/思想传播的最小单位，大到宗教，小到段子，都是模因的形式，模因的存在是为了自我复制。 模因的源泉是人类文化，传承载体是信息，产卵场是人的大脑，格列高利心智就是产卵场的精锐主力。
+- **模因的定义**：A meme is an idea, behavior, or style that spreads from person to person within a culture—often with the aim of conveying a particular phenomenon, theme, or meaning represented by the meme.[4] A meme acts as a unit for carrying cultural ideas, symbols, or practices, that can be transmitted from one mind to another through writing, speech, gestures, rituals, or other imitable phenomena with a mimicked theme. Supporters of the concept regard memes as cultural analogues to genes in that they self-replicate, mutate, and respond to selective pressures.
 
-**感想**：模因是前两节学到最重要的概念，成为优秀的作家，需要阅读大量优秀的作品，吸收和承继优秀的文化模因，才能产生自己的语言，可见阅读优秀文本是基本储备。吸收优秀的模因，形成良好的品味，积累金句和卡片，是写作的基本功。
+- **课程解释**：模因是文化/思想传播的最小单位，大到宗教，小到段子，都是模因的形式，模因的存在是为了自我复制。 模因的源泉是人类文化，传承载体是信息，产卵场是人的大脑，格列高利心智就是产卵场的精锐主力。
+
+- **感想**：模因是前两节学到最重要的概念，成为优秀的作家，需要阅读大量优秀的作品，吸收和承继优秀的文化模因，才能产生自己的语言，可见阅读优秀文本是基本储备。吸收优秀的模因，形成良好的品味，积累金句和卡片，是写作的基本功。
+
+- [出处](https://en.wikipedia.org/wiki/Meme)
 
 ---
 ## Changlog 
-180120 创建
+- 180120 创建
+- 180121 增加模因维基解释和出处
