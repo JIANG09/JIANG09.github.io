@@ -9,45 +9,170 @@ type: page
 * content
 {:toc}
 
+
+## 文章
 [看了不少书却没记住多少？你需要了解这个概念](https://mp.weixin.qq.com/s/Hm8XX9P__YkFhCxYS0EfmQ)
 
+[阳志平：纳博科夫的卡片  ](https://mp.weixin.qq.com/s?__biz=MzA4ODM4ODQ3MQ==&mid=400463582&idx=1&sn=e086b5683afe81c33a9cf1e2ae29aca8&scene=21#wechat_redirect)
+
+[理性：重新定义人类认知能力
+](http://note.openmindclub.com/science/YZP-What-Intelligence-Tests-Miss.html)
+
+《为什么孩子不喜欢上学》
+
+[共产党宣言  ](http://note.openmindclub.com/essays/Marx-The-Communist-Manifesto.html)
+
+《埃科谈文学》《一位年轻小说家的自白》《为什么读经典》《给青年小说家的信》 《孩子们的诗》
 
 
-## 工具
+[跨年答疑（3）：卡片十二问](http://www.yangzhiping.com/psy/happy-new-year-faq3.html)
 
-* [box-shadow generator](http://www.cssmatic.com/box-shadow)
+[写出好故事的技法：奥斯卡推荐的卡片编剧 ](https://mp.weixin.qq.com/s?__biz=MzA4ODM4ODQ3MQ==&mid=2651931936&idx=1&sn=9e2a0da5df3865b6152e1c1f79e01d44&chksm=8bcf0338bcb88a2ef22b53628a2d8fd2fd1895d1e9a9d7352f8afc29a24180bc2015d18eab79&mpshare=1&scene=1&srcid=05107j4GavBgFmQ0owvcI7OH#rd)
 
-    生成 box-shadow 的工具。
+[用卡片创造你的文字世界 ](https://mp.weixin.qq.com/s/sb0cGmFX5GL_A6fXwPFCPg)
+[卡片：现代分类学和互联网搜索的源头 ](https://mp.weixin.qq.com/s/AyMTmo1UJRrr1L9-XO9pnQ)
 
-* [gradient-generator](http://www.cssmatic.com/gradient-generator)
+[像纳博科夫一样写作：卡片创作法 ](https://mp.weixin.qq.com/s/4H_OhoXXC-hiVw5mehqfsQ)
 
-    渐变生成器。
+[怎样写散文](http://note.openmindclub.com/essays/JXL-essays.html)
 
-* [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+[慢慢来，比较快 —— 阿杰教练分享卡片写作的「笨」办法 ](https://github.com/AIWriter/Writer005/issues/167)
 
-    也是渐变生成器
+[听听那冷雨](http://note.openmindclub.com/essays/YGZ-rain.html)
 
-* [CSS Generators -CSSREFLEX](http://www.cssreflex.com/css-generators/)
+[涂鸦之二——捞月亮的童话](http://blog.sina.cn/dpool/blog/s/blog_4cae4dbc010008i2.html?type=-1)
 
-    CSS3 生成器
 
-- [tiny png](https://tinypng.com/)
+[忧伤的文学——认知写作学二期毕业典礼致辞](http://www.yangzhiping.com/psy/cogwriter002.html)
 
-    用于压缩 png 或 jpg 的在线工具
+[基础作业优秀作业范例](https://github.com/xudoujiang/Writer005/blob/master/ch3/assignment_basic.md)
 
-* [图床 https://sm.ms/](https://sm.ms/)
+转行
 
-    有 API 可用。
+牛津通识读本
 
-* [新浪微博图床 Chrome扩展](https://github.com/Suxiaogang/WeiboPicBed)
+离经叛道  giveandtake
 
-* [Unix 时间戳 Unix timestamp](http://tool.chinaz.com/Tools/unixtime.aspx)
+[《我们赖以生存的隐喻》读书笔记](http://note.openmindclub.com/essays/ZoeZeno-metaphor.html)
 
-- [在线正则表达式匹配](https://regex101.com/)
-    - 这个功能更强大一点，能清楚的区分出贪婪和懒惰正则。
-- [http://regexr.com/](http://regexr.com/)
-- [google fonts](https://fonts.google.com/)
-  - [Google Fonts 加速代理](https://fengmk2.com/blog/2016/google-fonts-mirror)
+
+[当认知科学遇上写作](https://mp.weixin.qq.com/s?__biz=MzA4ODM4ODQ3MQ==&mid=2651931148&idx=1&sn=65afe1111142b0449caca8c782072f75&chksm=8bcf0414bcb88d0216f90b8e612d0c61241ccec2029a84a7a38ee24bdaea927d31f902e771ec#rd)
+
+[我如何写作](http://note.openmindclub.com/essays/Eco-how-i-write.html)
+
+[我来说说写小说的事儿](http://note.openmindclub.com/essays/Murakami-talk-about-write.html)
+
+
+[论写作·杂谈](http://note.openmindclub.com/essays/StephenKing-write.html)
+
+
+[读伊索寓言](http://note.openmindclub.com/essays/QZS-aesop-fables.html)
+
+[理性：重新定义人类认知能力 ](http://note.openmindclub.com/science/YZP-What-Intelligence-Tests-Miss.html)
+
+[写作高阶技巧： 「删减元话语」](https://github.com/AIWriter/Writer005/wiki/SuggestionWritingMetadiscourse)
+
+补充0W和1W
+
+[公寓生活记趣](http://note.openmindclub.com/essays/ZAL-apartment)
+
+[社戏](http://www.yuedulu.com/doc/10063.html)
+
+[泡茶记](http://yuedulu.com/doc/6746.html)
+
+- 你一生的故事
+
+- 钱钟书（《写在人生边上》与《人生边上的边上》）
+- 余光中（《余光中精选集》）
+- 夏丏尊（《文章讲话》）对于写开头和结尾、句子的安排、文章的省略、文章中的会话、文章的静境和动态、所谓文气等等人们日常生活中都会遇见的问题，给予了精辟独到的意见。
+- 林沛理（《玩起中文》）
+- 作文四书是王鼎钧写的四本书的集合，分别是《讲理》、《作文七巧》、《作文十九问》和《文学种子》。
+
+
+[写什么](http://note.openmindclub.com/essays/ZAL-write-what.html)
+
+[不死](http://note.openmindclub.com/novels/Yasunari-Kawabata.html)
+
+[创建心理表征](http://note.openmindclub.com/science/mental-representation.html)
+
+[补天](http://note.openmindclub.com/novels/LX-story-sky.html)
+
+[最小故事使用体验](http://note.openmindclub.com/power/Min-Story.html)
+
+《英文散文的流变》 王佐良  练习翻译   
+
+
+余光中：很难一口气读下去，读的很累。 不够精细优美，认知负荷大，不深刻  
+
+典型的空间结构  ，上下关系  ，居高临上，简单解释，
+
+通过翻译来练习是很好的练习 
+
+快些慢改，非常快沟通密切，
+练习题自己尝试翻译，自己和他们额差距 班笨不够成熟  
+
+人类的第四次打击-补充
+
+《云图》小说
+
+[跨年答疑（3）：卡片十二问 ](http://mp.weixin.qq.com/s/p4Mritb0M_pEcFQ7wj1oig)
+
+[纳博科夫的卡片](http://note.openmindclub.com/science/YZP-Nabokov-Cards.html)
+
+[秋雨](http://note.openmindclub.com/essays/ZAL-rain.html) 张爱玲
+
+[刻意练习](http://note.openmindclub.com/science/YZP-deliberate-practice.html)
+
+[我的好友密斯朱](http://mp.weixin.qq.com/s/PdocRZYuIk_VE49DtzsT3A)
+
+[海明威的《老人与海》 ](http://note.openmindclub.com/essays/WXB-oldman-sea.html)
+
+[认知写作学写作清单](https://github.com/AIWriter/Writer005/wiki/HbWritingStyleChecklist)
+
+ [写作故事 | 修辞是一次小小冒险](http://mp.weixin.qq.com/s/0B0ARM0NN6-7nYPVCWx73A)
+ 
+ [最小故事使用体验](http://note.openmindclub.com/power/Min-Story.html)
+ 
+ [创建心理表征](http://note.openmindclub.com/science/mental-representation.html) 
+ 
+ [论「的」的不休](http://note.openmindclub.com/essays/YGZ-de.html)
+ 
+ 芭芭拉《积极情绪的力量》
+ 
+ 《有效商务写作》
+ 
+ 
+ 《风格练习》：《风格练习》这本书是一本炫技之作，这位作家用99种风格来写一个故事。
+迷宫  博尔赫斯  图书馆
+
+《玩具屋9讲》
+
+《毛姆读书笔记》
+
+[巴黎评论 作家访谈 1 (豆瓣)](https://book.douban.com/subject/26562404/)
+
+[巴黎评论 · 作家访谈 2 (豆瓣)](https://book.douban.com/subject/26591590/)
+
+[巴黎评论 · 作家访谈 3 (豆瓣)](https://book.douban.com/subject/27110805/)
+
+[在修辞中赏樱](http://www.jianshu.com/p/eb535c7698c5?utm_campaign=hugo&utm_medium=reader_share&utm_content=note)
+
+[凋寒教快速成文技巧](https://github.com/AIWriter/Writer005/issues/26#issuecomment-340197003)
+
+[如何避免清单写作](：https://github.com/AIWriter/Writer005/issues/62#issuecomment-341133033)
+
+生活平淡，因此追逐激情；人生乏味，所以向往有趣。然而，有趣有真假之分，什么是真正的有趣人生？文学和写作可以怎样帮助你成为有趣的人[【风格练习：如何成为有趣的人】](http://mp.weixin.qq.com/s/_9atYbwimkmB2eKE_GcZ8A)
+
+[提高意向性的小技巧](https://github.com/AIWriter/Writer005/issues/91)
+
+everything is a remix   
+
+[我如何写作](http://note.openmindclub.com/essays/Eco-how-i-write.html)
+
+[我在荒岛上迎接黎明](http://note.openmindclub.com/novels/WXB-island-daybreak.html)
+
+[我来说说写小说的事儿](http://note.openmindclub.com/essays/Murakami-talk-about-write.html)
+
 
 ## 编程语言
 
